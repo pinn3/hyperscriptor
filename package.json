@@ -1,6 +1,6 @@
 {
   "name": "hyperscriptor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Super simple hyperscript helper on 21 lines",
   "main": "index.js",
   "scripts": {
