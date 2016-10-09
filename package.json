@@ -9,6 +9,6 @@
   "author": "Jonathan Nguyen",
   "license": "MIT",
   "peerDependencies": {
-    "preact": ">=6"
+    "preact": ">=6.x"
   }
 }
