@@ -10,5 +10,13 @@
   "license": "MIT",
   "peerDependencies": {
     "preact": ">=6.x"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinn3/hyperscriptor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pinn3/hyperscriptor/issues"
+  },
+  "homepage": "https://github.com/pinn3/hyperscriptor#readme"
 }
